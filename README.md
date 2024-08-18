@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 seeking a career in full-stack development.<br>👯 lives in Bangalore.<br>⚡ Reach out me here bharathhalemane143@gmail.com 
-<br/>Portfolio:- bharathhalemane.ccbp.tech
+<br/>Portfolio:- [bharathhalemane.ccbp.tech](https://bharathhalemane.ccbp.tech/)
 
 
 ## 🌐 Socials:
